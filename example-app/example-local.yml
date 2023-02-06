@@ -1,0 +1,9 @@
+example: 'this is a test'
+
+spring:
+  application:
+    name: ExampleApp
+
+security:
+  username: username
+  password: Secret P@ssword
