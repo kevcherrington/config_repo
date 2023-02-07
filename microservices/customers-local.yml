@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Customers
+
+customers:
+  username: custUserLocal
+  password: custPassLocal

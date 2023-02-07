@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Products
+
+products:
+  username: productsUserLocal
+  password: productsPassLocal

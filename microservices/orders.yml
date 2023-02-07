@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: local
+
+orders:
+  username: ordersLocalUser
+  password: ordersLocalPass
+
+---
+
+spring:
+  profiles:
+    active: prod
+
+orders:
+  username: ordersProdUser
+  password: ordersProdPass

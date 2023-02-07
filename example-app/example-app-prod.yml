@@ -1,9 +1,0 @@
-example: this is a PROD test
-
-spring:
-  application:
-    name: ExampleApp
-
-security:
-  username: ProdUser
-  password: ProdP@ss

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Products
+
+security:
+  username: productsProdUser
+  password: productsProdP@ss
