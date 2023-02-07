@@ -1,0 +1,6 @@
+spring:
+  config.activate.on-profile: prod
+
+orders:
+  username: ordersProdUser
+  password: ordersProdPass
