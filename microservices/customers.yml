@@ -1,0 +1,3 @@
+# I might move this port value (i.e. ${customers.port}) to the application.yml later for use by the gateway/router.
+server:
+  port: 8100
