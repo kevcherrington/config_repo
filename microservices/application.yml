@@ -3,13 +3,13 @@ eureka:
     prefer-ip-address: true # will use the ip address instead of host name when referencing instances. i.e. http://192.168.0.2:8100/actuator/info
 
 # Reference docs for the actuators available here: https://docs.spring.io/spring-boot/docs/current/actuator-api/htmlsingle/
-management:
-  endpoints:
-    enabled-by-default: true
-  web:
-    exposure:
-      include: "*"
-      exclude: "shutdown"
-  endpoint:
-    shutdown:
-      enabled: false
+#management:
+#  endpoints:
+#    enabled-by-default: true
+#  web:
+#    exposure:
+#      include: "*"
+#      exclude: "shutdown"
+#  endpoint:
+#    shutdown:
+#      enabled: false
