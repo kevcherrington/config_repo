@@ -15,6 +15,3 @@ management:
   endpoint:
     shutdown:
       enabled: false
-
-discovery:
-  port: 8000
