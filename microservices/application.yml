@@ -15,3 +15,18 @@ management:
   endpoint:
     shutdown:
       enabled: false
+
+my:
+  property:
+    chain:
+      value1: boostrapLocal
+      value2: boostrapLocal
+      value3: boostrapLocal
+      value4: boostrapLocal
+      value5: boostrapLocal
+      value6: boostrapLocal
+      value7: boostrapLocal
+      value8: boostrapLocal
+      value9: boostrapLocal
+      value10: boostrapLocal
+      value11: boostrapLocal

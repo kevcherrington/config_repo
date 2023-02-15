@@ -3,5 +3,5 @@ spring:
     name: Customers
 
 customers:
-  username: custUserLocal
-  password: custPassLocal
+  username: custUserDev
+  password: custPassDev
