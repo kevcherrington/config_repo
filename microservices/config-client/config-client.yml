@@ -1,5 +1,3 @@
-my:
-  property:
-    config-client-base: true
-    config-client-dev: false
-    config-client-prod: false
+news:
+  reliable-site:
+    url: https://www.ksl.com
