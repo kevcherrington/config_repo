@@ -1,5 +1,3 @@
-my:
-  property:
-    config-client-base: false
-    config-client-dev: true
-    config-client-prod: false
+news:
+  reliable-site:
+    url: https://www.npr.org/

@@ -1,5 +1,3 @@
-my:
-  property:
-    config-client-base: false
-    config-client-dev: false
-    config-client-prod: true
+news:
+  reliable-site:
+    url: https://www.cnn.com/
